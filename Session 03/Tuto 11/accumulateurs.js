@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 let mots = ["chat", "ordinateur", "table", "programmation", "js"];
 let motslong = 0;
 
@@ -20,3 +21,27 @@ for (let i=0; i < nombres.length; i++) {
 }
 
 console.log(sommepairs);
+=======
+let mots = ["chat", "ordinateur", "table", "programmation", "js"];
+let motslong = 0;
+
+for (let i=0; i < mots.length; i++) {
+    if (mots[i].length > 5) {
+        motslong ++;
+    }
+} 
+
+console.log(motslong);
+
+
+let nombres = [4, 7, 2, 9, 5, 8];
+let sommepairs = 0; 
+
+for (let i=0; i < nombres.length; i++) {
+    if (nombres[i] % 2 === 0) {
+        sommepairs ++;
+    }
+}
+
+console.log(sommepairs);
+>>>>>>> 40a716e868d63ad551dfce80989dc56e727e006f

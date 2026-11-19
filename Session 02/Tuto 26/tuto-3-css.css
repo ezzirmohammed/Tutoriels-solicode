@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .title {
     color: red;
 }
@@ -8,4 +9,16 @@ h2, h3 {
 
 .article-body p {
     color: green;
+=======
+.title {
+    color: red;
+}
+
+h2, h3 {
+    color: blue;
+}
+
+.article-body p {
+    color: green;
+>>>>>>> 40a716e868d63ad551dfce80989dc56e727e006f
 }

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .carte-article {
     width: 300px;
     background: #f9fafb;
@@ -7,3 +8,14 @@
 .carte-contenu {
     padding: 30px;
 }
+=======
+.carte-article {
+    width: 300px;
+    background: #f9fafb;
+    border: 2px solid #e5e7eb;
+}
+
+.carte-contenu {
+    padding: 30px;
+}
+>>>>>>> 40a716e868d63ad551dfce80989dc56e727e006f

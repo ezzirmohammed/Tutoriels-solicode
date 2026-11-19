@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .filtre-categories { 
     margin: 64px 24px; 
     text-align: center; 
@@ -8,3 +9,15 @@
     color: #111827; 
     font-size: 18px; 
 }
+=======
+.filtre-categories { 
+    margin: 64px 24px; 
+    text-align: center; 
+}
+
+.filtre-categories h2 { 
+    margin: 0 0 20px; 
+    color: #111827; 
+    font-size: 18px; 
+}
+>>>>>>> 40a716e868d63ad551dfce80989dc56e727e006f

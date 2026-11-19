@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
     box-sizing: border-box;
 }
@@ -8,3 +9,15 @@ body {
     font-family: Arial, sans-serif;
     color: #1f2937;
 }
+=======
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background: #f9fafb;
+    font-family: Arial, sans-serif;
+    color: #1f2937;
+}
+>>>>>>> 40a716e868d63ad551dfce80989dc56e727e006f

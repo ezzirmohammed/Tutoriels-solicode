@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .liste-liens {
     padding-left: 20px;
 }
@@ -10,3 +11,17 @@
     color: #2673e8;
 }
 
+=======
+.liste-liens {
+    padding-left: 20px;
+}
+
+.liste-liens li {
+    margin-bottom: 10px;
+}
+
+.liste-liens a {
+    color: #2673e8;
+}
+
+>>>>>>> 40a716e868d63ad551dfce80989dc56e727e006f

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
      margin: 0; 
      color: #1f2937; 
@@ -16,3 +17,23 @@ ul {
     padding: 0; 
     margin: 0; 
 }
+=======
+body {
+     margin: 0; 
+     color: #1f2937; 
+     background: #f9fafb; 
+     font-family: Arial, sans-serif; 
+     line-height: 1.5; 
+}
+
+a { 
+    color: inherit; 
+    text-decoration: none; 
+}
+
+ul { 
+    list-style: none; 
+    padding: 0; 
+    margin: 0; 
+}
+>>>>>>> 40a716e868d63ad551dfce80989dc56e727e006f

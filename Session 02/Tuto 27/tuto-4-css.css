@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 p {
     font-family: Arial, sans-serif;
     font-size: 18px;
@@ -19,3 +20,26 @@ p {
 .text {
     color: blue;
 }
+=======
+p {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic;
+    line-height: 1.6;
+}
+
+.title {
+    text-align: center;
+    color: #333333;
+    background: #eeeeee;
+}
+
+.intro {
+    color: #333333;
+}
+
+.text {
+    color: blue;
+}
+>>>>>>> 40a716e868d63ad551dfce80989dc56e727e006f

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .carte-article {
     width: 300px;
     background: #f9fafb;
@@ -29,3 +30,36 @@
     object-fit: cover;
     display: block;
 }
+=======
+.carte-article {
+    width: 300px;
+    background: #f9fafb;
+    border: 2px solid #e5e7eb;
+    margin-bottom: 24px;
+    border-radius: 16px;
+    overflow: hidden;
+}
+
+.carte-contenu {
+    padding: 20px;
+}
+
+.carte-contenu h3 {
+    margin: 0;
+}
+
+.carte-contenu p {
+    margin: 12px 0;
+}
+
+.carte-image {
+    display: block;
+}
+
+.carte-image img {
+    width: 100%;
+    height: 220px;
+    object-fit: cover;
+    display: block;
+}
+>>>>>>> 40a716e868d63ad551dfce80989dc56e727e006f

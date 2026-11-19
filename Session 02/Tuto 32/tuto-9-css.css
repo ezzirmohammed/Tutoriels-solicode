@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .cache {
     display: none;
 }
@@ -8,3 +9,15 @@
     color: gray;
 }
 
+=======
+.cache {
+    display: none;
+}
+
+.citation-bloc {
+    display: block;     
+    margin-top: 20px;    
+    color: gray;
+}
+
+>>>>>>> 40a716e868d63ad551dfce80989dc56e727e006f

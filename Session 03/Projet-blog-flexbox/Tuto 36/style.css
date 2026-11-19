@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -8,4 +9,16 @@ header {
 }
 h1 {
     color: #555;
+=======
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+header {
+    margin-bottom: 20px;
+}
+h1 {
+    color: #555;
+>>>>>>> 40a716e868d63ad551dfce80989dc56e727e006f
 }

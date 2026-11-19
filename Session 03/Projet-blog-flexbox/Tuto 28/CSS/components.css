@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .bouton-principal { 
     display: inline-block; 
     padding: 10px 20px; 
@@ -8,3 +9,15 @@
     font-weight: 600; 
     text-align: center; 
 }
+=======
+.bouton-principal { 
+    display: inline-block; 
+    padding: 10px 20px; 
+    color: white; 
+    background: #2673e8; 
+    border-radius: 8px; 
+    font-size: 14px; 
+    font-weight: 600; 
+    text-align: center; 
+}
+>>>>>>> 40a716e868d63ad551dfce80989dc56e727e006f
