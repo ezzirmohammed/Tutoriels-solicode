@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?php
 
 $articles = [
@@ -29,8 +28,6 @@ $categories = [
 
 require 'index-template.php';
 
-=======
-<?php
 
 $articles = [
     [
@@ -60,5 +57,4 @@ $categories = [
 
 require 'index-template.php';
 
->>>>>>> 40a716e868d63ad551dfce80989dc56e727e006f
 ?>
